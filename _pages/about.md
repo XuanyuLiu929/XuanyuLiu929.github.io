@@ -23,6 +23,7 @@ As a Human-Computer Interaction (HCI) researcher, my research aims to examine ho
 
 
 # 🔥 News
+- *2026.01*: &nbsp;🥳 My first-author paper, Systematic Literature Review on Social Support, has been conditionally accepted to CHI 2026. Looking forward to seeing the HCI community in Barcelona!
 - *2025.10*: &nbsp;🚀 I'll be attending the ASSETS 2025 to present my First author work 'CoSignPlay'. It's on 10/28 Session 6A!
 - *2025.10*: &nbsp;🎉 "Comparative Effectiveness of Human- and Robot-Based Interventions in Increasing Empathy Among Autistic Children" accepted to JADD 2025!
 - *2025.04*: &nbsp;🎤 I will present a poster "An Educational Game Prototype for Avatar-based Non-Manual Sign Learning in American Sign Language" at CHI 2025! 
