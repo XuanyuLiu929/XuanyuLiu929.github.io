@@ -33,7 +33,7 @@ As a Human-Computer Interaction (HCI) researcher, my research aims to examine ho
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASSETS 2025</div><img src='images/ASSETS 2025.png' alt="This image for the CoSignPlay project illustrates our prototype concept. Please see the PDF for details." width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[CoSignPlay: A Collaborative Approach to Learning Non-Manual Signs in ASL for Hearing Families with Deaf Children](https://zhenbai.io/wp-content/uploads/2025/07/CoSignPlay.pdf)
+[CoSignPlay: A Collaborative Approach to Learning Non-Manual Signs in ASL for Hearing Families with Deaf Children](https://dl.acm.org/doi/10.1145/3663547.3746382)
 
 **Xuanyu Liu**, Hsin-Le Cheng, Guillaume Chastel, Margaret Chastel, Zhen Bai 
 
