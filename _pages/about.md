@@ -32,7 +32,7 @@ As a Human-Computer Interaction (HCI) researcher, my research aims to examine ho
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2026</div><img src='images/CHI 2026.png' alt="This is image for the systematic literature review project. Please see the PDF for details." width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[What do we mean by social support? A systematic review of HCI research investigating and designing for social support](https://github.com/XuanyuLiu929/XuanyuLiu929.github.io/blob/main/docs/SLR-social%20support.pdf))
+[What do we mean by social support? A systematic review of HCI research investigating and designing for social support]
 
 **Xuanyu Liu**, Joseph Heger, Irene Yu, Gabriela Marcu
 
