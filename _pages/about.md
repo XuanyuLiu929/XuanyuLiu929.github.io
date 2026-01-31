@@ -29,6 +29,16 @@ As a Human-Computer Interaction (HCI) researcher, my research aims to examine ho
 - *2025.04*: &nbsp;🎤 I will present a poster "An Educational Game Prototype for Avatar-based Non-Manual Sign Learning in American Sign Language" at CHI 2025! 
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2026</div><img src='images/CHI 2026.png' alt="This is image for the systematic literature review project. Please see the PDF for details." width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[What do we mean by social support? A systematic review of HCI research investigating and designing for social support]([https://dl.acm.org/doi/10.1145/3663547.3746382](https://static1.squarespace.com/static/542633e4e4b0701411e83da5/t/697e2d1ac2216127c68a12c0/1769876762702/2026_CHI_SocialSupportSLR.pdf))
+
+**Xuanyu Liu**, Joseph Heger, Irene Yu, Gabriela Marcu
+
+- Social Media and Online Communities, Computer-mediated Communication, Health, Relationship
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASSETS 2025</div><img src='images/ASSETS 2025.png' alt="This image for the CoSignPlay project illustrates our prototype concept. Please see the PDF for details." width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
